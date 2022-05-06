@@ -1,0 +1,346 @@
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Laboratorio_Processes.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Laboratorio_Processes.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Laboratorio_Processes.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxDataManager.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEntity.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxGlobals.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxLocalization.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxMail.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxObjectConfig.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSession.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSettings.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxUtilities.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Oracle.ManagedDataAccess.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\MySql.Data.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEncoder.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSecurity.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEnvironment.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSignalR.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Newtonsoft.Json.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Translate.v2.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxAccount.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Core.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Mail.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.Shared.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Owin.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\EntityFramework.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\stdole.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxDataManager.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxDataManager.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEntity.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEntity.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxGlobals.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxGlobals.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxLocalization.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxLocalization.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxMail.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxMail.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxObjectConfig.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxObjectConfig.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSession.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSession.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSettings.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSettings.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxUtilities.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxUtilities.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\MySql.Data.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.SqlServer.TransactSql.ScriptDom.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEncoder.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEncoder.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSecurity.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSecurity.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEnvironment.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEnvironment.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSignalR.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSignalR.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Newtonsoft.Json.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Translate.v2.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxAccount.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxAccount.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Core.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Mail.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\EntityFramework.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\de-DE\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es-ES\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\fr-FR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\it-IT\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\ja-JP\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\ko-KR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\ru-RU\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\zh-CN\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\zh-TW\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es\Microsoft.Owin.Security.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.AssemblyReference.cache
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.Resources.resources
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.GenerateResource.cache
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.CoreCompileInputs.cache
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.CopyComplete
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Laboratorio_Processes.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Laboratorio_Processes.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Laboratorio_Processes.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxDataManager.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEntity.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxGlobals.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxLocalization.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxMail.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxObjectConfig.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSession.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSettings.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxUtilities.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Oracle.ManagedDataAccess.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\MySql.Data.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEncoder.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSecurity.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEnvironment.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSignalR.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Newtonsoft.Json.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Translate.v2.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxAccount.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Core.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Mail.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.Shared.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Owin.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\EntityFramework.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\stdole.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxDataManager.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxDataManager.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEntity.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEntity.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxGlobals.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxGlobals.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxLocalization.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxLocalization.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxMail.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxMail.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxObjectConfig.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxObjectConfig.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSession.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSession.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSettings.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSettings.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxUtilities.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxUtilities.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\MySql.Data.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.SqlServer.TransactSql.ScriptDom.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEncoder.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEncoder.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSecurity.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSecurity.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEnvironment.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEnvironment.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSignalR.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSignalR.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Newtonsoft.Json.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Translate.v2.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxAccount.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxAccount.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Core.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Mail.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\EntityFramework.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\de-DE\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es-ES\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\fr-FR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\it-IT\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\ja-JP\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\ko-KR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\ru-RU\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\zh-CN\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\zh-TW\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es\Microsoft.Owin.Security.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.Resources.resources
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.GenerateResource.cache
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.CoreCompileInputs.cache
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.CopyComplete
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Laboratorio_Processes.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Laboratorio_Processes.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Laboratorio_Processes.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxDataManager.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEntity.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxGlobals.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxLocalization.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxMail.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxObjectConfig.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSession.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSettings.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxUtilities.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\MySql.Data.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEncoder.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSecurity.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEnvironment.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSignalR.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Newtonsoft.Json.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Translate.v2.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxAccount.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Core.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Mail.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.Shared.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Owin.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\EntityFramework.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\stdole.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxDataManager.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxDataManager.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEntity.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEntity.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxGlobals.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxGlobals.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxLocalization.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxLocalization.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxMail.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxMail.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxObjectConfig.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxObjectConfig.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSession.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSession.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSettings.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSettings.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxUtilities.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxUtilities.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\MySql.Data.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.SqlServer.TransactSql.ScriptDom.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEncoder.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEncoder.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSecurity.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSecurity.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEnvironment.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxEnvironment.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSignalR.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxSignalR.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Newtonsoft.Json.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Translate.v2.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxAccount.pdb
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\flxAccount.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Google.Apis.Core.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Mail.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\EntityFramework.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\de-DE\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es-ES\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\fr-FR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\it-IT\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\ja-JP\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\ko-KR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\ru-RU\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\zh-CN\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\zh-TW\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.AssemblyReference.cache
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.Resources.resources
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.GenerateResource.cache
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.CoreCompileInputs.cache
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.vbproj.CopyComplete
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.dll
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.xml
+C:\Users\Hasy\Desktop\luiscorbi\Laboratorio\Laboratorio\Laboratorio\Laboratorio_Processes\obj\Debug\Laboratorio_Processes.pdb

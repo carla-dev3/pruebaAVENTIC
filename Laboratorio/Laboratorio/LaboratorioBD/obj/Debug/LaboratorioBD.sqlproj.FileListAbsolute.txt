@@ -1,0 +1,21 @@
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\LaboratorioBD.dacpac
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\LaboratorioBD.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\LaboratorioBD.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\FlexyGoBD.dacpac
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\master.dacpac
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\LaboratorioBD.sqlproj.CopyComplete
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\LaboratorioBD.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\LaboratorioBD.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\LaboratorioBD.sqlproj.AssemblyReference.cache
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\LaboratorioBD.dacpac
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\Model.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\refactor.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\postdeploy.sql
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\predeploy.sql
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\LaboratorioBD.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\LaboratorioBD.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\LaboratorioBD.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\LaboratorioBD.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\FlexyGoBD.dacpac
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\bin\Debug\master.dacpac
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\LaboratorioBD\obj\Debug\LaboratorioBD.sqlproj.CopyComplete

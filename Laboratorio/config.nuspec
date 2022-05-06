@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Laboratorio</id>
+    <version>1.0.0.5</version>
+    <title>Laboratorio</title>
+    <authors>Ahora Freeware</authors>
+    <owners>Ahora Freeware</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Create your own Professional Solutions. Flexygo allows you to immediatly build incredible Solutions for companies, professionals and individuals. For easy installation visit https://nuget.flexygo.com/</description>
+    <copyright>Copyright © 2017 Ahora Freeware</copyright>
+	<projectUrl>http://flexygo.com</projectUrl>
+	<licenseUrl>http://flexygo.com/tarifas/</licenseUrl>
+	<iconUrl>https://nuget.flexygo.com/isotipo.png</iconUrl>
+	<tags>Rad Framework Rapid CMS Builder</tags>
+    <releaseNotes/>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+
+    <file src=".\publish\bin\**\*.*" target="lib\net46\" />
+    <file src=".\publish\**\*.*" target="content\" exclude=".\publish\bin\**\*.*;.\publish\nuget\**\*.*"/>
+    <file src=".\install.ps1" target="tools\" />
+  </files>
+</package>
