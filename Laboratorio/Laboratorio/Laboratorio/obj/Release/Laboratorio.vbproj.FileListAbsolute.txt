@@ -1,0 +1,516 @@
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio.dll.config
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Antlr3.Runtime.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Castle.Core.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Common.Logging.Core.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Common.Logging.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportSource.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.Shared.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\dotless.Core.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\EntityFramework.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\EntityFramework.SqlServer.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Flexygo.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxAccount.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxDataManager.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxEncoder.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxEntity.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxEnvironment.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxGlobals.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxLocalization.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxMail.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxMock.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxObjectConfig.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxPlugins.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxPowerBI.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSearch.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSecurity.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSession.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSettings.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSignalR.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSysProcess.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxUI.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxUtilities.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.Core.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.Translate.v2.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio_Processes.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Mail.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\MailChimp.Net.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.Core.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Data.Tools.Schema.Sql.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Data.Tools.Utilities.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.OpenApi.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.OpenApi.Readers.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Cors.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.Cookies.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.OAuth.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.PowerBI.Api.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Rest.ClientRuntime.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Dac.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Dac.Extensions.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Types.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Web.Infrastructure.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Moq.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\MySql.Data.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Newtonsoft.Json.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Oracle.ManagedDataAccess.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Owin.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Quartz.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\RestSharp.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\SharpYaml.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Net.Http.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Net.Http.Formatting.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Security.Cryptography.Algorithms.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Security.Cryptography.Encoding.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Security.Cryptography.Primitives.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Security.Cryptography.X509Certificates.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Cors.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Helpers.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.Cors.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.Owin.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.WebHost.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Mvc.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.Less.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Razor.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.Deployment.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.Razor.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\UnitTest.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\WebGrease.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio_Processes.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio_Processes.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Antlr3.Runtime.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Castle.Core.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Common.Logging.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Common.Logging.Core.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\dotless.Core.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\EntityFramework.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\EntityFramework.SqlServer.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Flexygo.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Flexygo.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Flexygo.dll.config
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxAccount.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxAccount.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxDataManager.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxDataManager.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxEncoder.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxEncoder.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxEntity.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxEntity.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxEnvironment.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxEnvironment.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxGlobals.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxGlobals.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxLocalization.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxLocalization.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxMail.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxMail.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxMock.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxMock.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxObjectConfig.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxObjectConfig.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxPlugins.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxPlugins.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxPowerBI.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxPowerBI.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSearch.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSearch.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSecurity.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSecurity.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSession.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSession.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSettings.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSettings.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSignalR.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSignalR.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSysProcess.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxSysProcess.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxUI.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxUI.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxUtilities.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\flxUtilities.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.Core.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.Translate.v2.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Mail.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.Core.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.OpenApi.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Cors.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.Cookies.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.OAuth.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Dac.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Dac.Extensions.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.TransactSql.ScriptDom.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Moq.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\MySql.Data.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Newtonsoft.Json.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\Quartz.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\RestSharp.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\SharpYaml.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Net.Http.Formatting.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Helpers.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.Cors.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.Owin.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.WebHost.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Mvc.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.Less.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.Less.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Razor.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.Deployment.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.Razor.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\UnitTest.pdb
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\UnitTest.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\UnitTest.dll.config
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\es\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\es\Microsoft.Owin.Security.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.vbproj.AssemblyReference.cache
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.Resources.resources
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.vbproj.GenerateResource.cache
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.vbproj.CoreCompileInputs.cache
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.vbproj.CopyComplete
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.dll
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.xml
+C:\proyectos\luis corbi\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio.dll.config
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Antlr3.Runtime.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Castle.Core.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Common.Logging.Core.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Common.Logging.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportSource.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.Shared.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\dotless.Core.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\EntityFramework.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\EntityFramework.SqlServer.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Flexygo.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxAccount.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxDataManager.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxEncoder.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxEntity.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxEnvironment.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxGlobals.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxLocalization.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxMail.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxMock.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxObjectConfig.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxPlugins.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxPowerBI.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSearch.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSecurity.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSession.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSettings.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSignalR.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSysProcess.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxUI.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxUtilities.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.Core.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.Translate.v2.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio_Processes.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Mail.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\MailChimp.Net.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.Core.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Data.Tools.Schema.Sql.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Data.Tools.Utilities.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.OpenApi.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.OpenApi.Readers.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Cors.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.Cookies.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.OAuth.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.PowerBI.Api.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Rest.ClientRuntime.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Dac.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Dac.Extensions.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Types.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Web.Infrastructure.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Moq.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\MySql.Data.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Newtonsoft.Json.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Oracle.ManagedDataAccess.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Owin.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Quartz.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\RestSharp.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\SharpYaml.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Net.Http.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Net.Http.Formatting.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Security.Cryptography.Algorithms.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Security.Cryptography.Encoding.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Security.Cryptography.Primitives.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Security.Cryptography.X509Certificates.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Cors.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Helpers.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.Cors.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.Owin.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.WebHost.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Mvc.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.Less.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Razor.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.Deployment.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.Razor.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\UnitTest.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\WebGrease.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio_Processes.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Laboratorio_Processes.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Antlr3.Runtime.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Castle.Core.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Common.Logging.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Common.Logging.Core.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\dotless.Core.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\EntityFramework.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\EntityFramework.SqlServer.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Flexygo.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Flexygo.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Flexygo.dll.config
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxAccount.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxAccount.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxDataManager.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxDataManager.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxEncoder.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxEncoder.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxEntity.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxEntity.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxEnvironment.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxEnvironment.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxGlobals.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxGlobals.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxLocalization.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxLocalization.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxMail.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxMail.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxMock.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxMock.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxObjectConfig.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxObjectConfig.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxPlugins.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxPlugins.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxPowerBI.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxPowerBI.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSearch.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSearch.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSecurity.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSecurity.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSession.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSession.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSettings.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSettings.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSignalR.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSignalR.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSysProcess.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxSysProcess.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxUI.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxUI.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxUtilities.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\flxUtilities.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.Core.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Google.Apis.Translate.v2.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Mail.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.Core.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.OpenApi.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Cors.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.Cookies.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.Owin.Security.OAuth.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Dac.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.Dac.Extensions.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Microsoft.SqlServer.TransactSql.ScriptDom.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Moq.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\MySql.Data.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Newtonsoft.Json.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\Quartz.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\RestSharp.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\SharpYaml.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Net.Http.Formatting.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Helpers.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.Cors.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.Owin.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Http.WebHost.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Mvc.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.Less.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Optimization.Less.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.Razor.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.Deployment.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\System.Web.WebPages.Razor.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\UnitTest.pdb
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\UnitTest.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\UnitTest.dll.config
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\es\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.Data.Tools.Utilities.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\es\Microsoft.Owin.Security.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.SqlServer.Dac.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\de-DE\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\es-ES\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\fr-FR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\it-IT\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ja-JP\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ko-KR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\ru-RU\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-CN\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\bin\zh-TW\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.vbproj.AssemblyReference.cache
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.Resources.resources
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.vbproj.GenerateResource.cache
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.vbproj.CoreCompileInputs.cache
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.vbproj.CopyComplete
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.dll
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.xml
+C:\proyectos\Laboratorio\Laboratorio\Laboratorio\Laboratorio\obj\Release\Laboratorio.pdb

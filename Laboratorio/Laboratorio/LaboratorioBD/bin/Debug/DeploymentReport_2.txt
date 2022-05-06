@@ -1,0 +1,17 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[Processes_Params_Utrig] (Desencadenador)
+       [dbo].[Processes_Processes_Params_ITrig] (Desencadenador)
+       [dbo].[Processes_Processes_Params_UTrig] (Desencadenador)
+
+** Acciones de compatibilidad
